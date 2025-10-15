@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\9c9145864cf1346867e54971db947728\transformed\viewbinding-8.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\b47eaa5ff8657212d85ad065ea7e75de\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\cc4bc374c6467a27fb27d18b2d78e971\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\f0e09fb1ba5159fe2895ed9fb7813d8b\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\488270f82d837ee779cdfaed57da350b\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\bhoom\.gradle\caches\transforms-3\24d7f3853e514ffffe2a6e34b37cf96b\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\bhoom\.gradle\caches\transforms-3\878389cd291b743b57030b3398a299f1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\2d306a7be8f44918b86bd56e12ae0aee\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\a5bfb206b0034c5153455a33985bde20\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\588c7b5960bbdc84c22b5f7c4ba222fb\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\80381e227cfb2c4f3bbd275c1e275eda\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\cd48bc188301722b7eb36270bcc0f209\transformed\media3-common-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\c3334c21966f0203041b8a66762f7bb3\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\a3909058391a15c4173bd25b2ac43006\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\a3f5b5cfa38efcacef2b482dd1338e04\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\280d67c9a2b3df7801f34e43d3331304\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\b494d23cf55be738640b26946cc80518\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\dadf36048f2ed064578ce7e5bacbe619\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\a1ce7172ac082790b05d1d239b14a8c9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\541dcadd798b01e5ed73f3ac6563f136\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ec7c8cfa79bd6894a2cf2638e451f56e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\dbe78cd3ffc4f10a4a641dbc83d5e898\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\fe515e69970dd86d2c7adc579365c5a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\8056b0cb9e4cb51f41a8e52b8fbcacd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\8dca1e8b91e6b271f275c8828b0e7df7\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\66e1e976f1bad7184f4ed6793f9d4609\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\6f63e26975c94a98d120408efaee8a8b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\e228bfd80625266e5c97d5166c2163a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7bc2e4683f22d66ca04b42ba8a14833a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\5d592a1fcc4d4743ef2c4e119a659def\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\8477bc374250912b010acb19ff871db2\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2ea940217ad5c20f8436cfc58453ffe2\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\3a7d407f541aac48d624526106b365ef\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\b1675922bed9bb8f28960851b3defc44\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2fe476d47fc1e5f078d95e5ad6a0ff40\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\9adb7b10c38fdfe01dac667880f156cc\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\fae7b7f6cf99ab711b4a56118c153a03\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\0b38a1d06b173e5ae50fdf3defbe3607\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\eec865448f75104b89ced96716548931\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\639ffff061e466faceff99a68711b784\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhoom\.gradle\caches\transforms-3\70377e976c1b1b2396871a0c3f42dbe1\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffc78544a889815865f9e5357259d9c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7ef74bed882d684da4b7238e5777970a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\72d9e66c9bd580f14958510d56eeb9e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\8a43ce0df3bdae44e6b9bd8b51ecbb9d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\dd525a39b55a28f63f55ca4c075ba329\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\5b212d94b1511f1948ceceadacf33626\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\969e4d3bfd5bb47ca1b43866a7228c4d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7f92343d48edfef6453cb4fe320393ae\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\49cf70573a3dec4ef568db769f46d11b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\b6baa1a4c18b81940b0b9191695cd51f\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\bhoom\.gradle\caches\transforms-3\faaa14d7f0901af06e0f69e4d2b7e343\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:2:1-12:12
+	package
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:10:5-30:19
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\bhoom\.gradle\caches\transforms-3\24d7f3853e514ffffe2a6e34b37cf96b\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\bhoom\.gradle\caches\transforms-3\24d7f3853e514ffffe2a6e34b37cf96b\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\bhoom\.gradle\caches\transforms-3\878389cd291b743b57030b3398a299f1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\bhoom\.gradle\caches\transforms-3\878389cd291b743b57030b3398a299f1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\80381e227cfb2c4f3bbd275c1e275eda\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\80381e227cfb2c4f3bbd275c1e275eda\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\72d9e66c9bd580f14958510d56eeb9e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\72d9e66c9bd580f14958510d56eeb9e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\bhoom\.gradle\caches\transforms-3\faaa14d7f0901af06e0f69e4d2b7e343\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\bhoom\.gradle\caches\transforms-3\faaa14d7f0901af06e0f69e4d2b7e343\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:10:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:18:9-55
+	android:dataExtractionRules
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:12:9-65
+activity#com.example.currencydetection.MainActivity
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:exported
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\9c9145864cf1346867e54971db947728\transformed\viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\9c9145864cf1346867e54971db947728\transformed\viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\b47eaa5ff8657212d85ad065ea7e75de\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\b47eaa5ff8657212d85ad065ea7e75de\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\cc4bc374c6467a27fb27d18b2d78e971\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\cc4bc374c6467a27fb27d18b2d78e971\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\f0e09fb1ba5159fe2895ed9fb7813d8b\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\f0e09fb1ba5159fe2895ed9fb7813d8b\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\488270f82d837ee779cdfaed57da350b\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\bhoom\.gradle\caches\transforms-3\488270f82d837ee779cdfaed57da350b\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\bhoom\.gradle\caches\transforms-3\24d7f3853e514ffffe2a6e34b37cf96b\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\bhoom\.gradle\caches\transforms-3\24d7f3853e514ffffe2a6e34b37cf96b\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\bhoom\.gradle\caches\transforms-3\878389cd291b743b57030b3398a299f1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\bhoom\.gradle\caches\transforms-3\878389cd291b743b57030b3398a299f1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\2d306a7be8f44918b86bd56e12ae0aee\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\2d306a7be8f44918b86bd56e12ae0aee\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\a5bfb206b0034c5153455a33985bde20\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\bhoom\.gradle\caches\transforms-3\a5bfb206b0034c5153455a33985bde20\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\588c7b5960bbdc84c22b5f7c4ba222fb\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\588c7b5960bbdc84c22b5f7c4ba222fb\transformed\tensorflow-lite-support-0.1.0\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\80381e227cfb2c4f3bbd275c1e275eda\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\80381e227cfb2c4f3bbd275c1e275eda\transformed\tensorflow-lite-gpu-2.3.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\cd48bc188301722b7eb36270bcc0f209\transformed\media3-common-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\cd48bc188301722b7eb36270bcc0f209\transformed\media3-common-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\c3334c21966f0203041b8a66762f7bb3\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\c3334c21966f0203041b8a66762f7bb3\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\a3909058391a15c4173bd25b2ac43006\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\a3909058391a15c4173bd25b2ac43006\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\a3f5b5cfa38efcacef2b482dd1338e04\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\a3f5b5cfa38efcacef2b482dd1338e04\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\280d67c9a2b3df7801f34e43d3331304\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\280d67c9a2b3df7801f34e43d3331304\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\b494d23cf55be738640b26946cc80518\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\b494d23cf55be738640b26946cc80518\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\dadf36048f2ed064578ce7e5bacbe619\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\bhoom\.gradle\caches\transforms-3\dadf36048f2ed064578ce7e5bacbe619\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\a1ce7172ac082790b05d1d239b14a8c9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\a1ce7172ac082790b05d1d239b14a8c9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\541dcadd798b01e5ed73f3ac6563f136\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\541dcadd798b01e5ed73f3ac6563f136\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ec7c8cfa79bd6894a2cf2638e451f56e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ec7c8cfa79bd6894a2cf2638e451f56e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\dbe78cd3ffc4f10a4a641dbc83d5e898\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\dbe78cd3ffc4f10a4a641dbc83d5e898\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\fe515e69970dd86d2c7adc579365c5a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\fe515e69970dd86d2c7adc579365c5a9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\8056b0cb9e4cb51f41a8e52b8fbcacd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\8056b0cb9e4cb51f41a8e52b8fbcacd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\8dca1e8b91e6b271f275c8828b0e7df7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\8dca1e8b91e6b271f275c8828b0e7df7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\66e1e976f1bad7184f4ed6793f9d4609\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\66e1e976f1bad7184f4ed6793f9d4609\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\6f63e26975c94a98d120408efaee8a8b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bhoom\.gradle\caches\transforms-3\6f63e26975c94a98d120408efaee8a8b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\e228bfd80625266e5c97d5166c2163a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\e228bfd80625266e5c97d5166c2163a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7bc2e4683f22d66ca04b42ba8a14833a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7bc2e4683f22d66ca04b42ba8a14833a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\5d592a1fcc4d4743ef2c4e119a659def\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\5d592a1fcc4d4743ef2c4e119a659def\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\8477bc374250912b010acb19ff871db2\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\bhoom\.gradle\caches\transforms-3\8477bc374250912b010acb19ff871db2\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2ea940217ad5c20f8436cfc58453ffe2\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2ea940217ad5c20f8436cfc58453ffe2\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\3a7d407f541aac48d624526106b365ef\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\3a7d407f541aac48d624526106b365ef\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\b1675922bed9bb8f28960851b3defc44\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\b1675922bed9bb8f28960851b3defc44\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2fe476d47fc1e5f078d95e5ad6a0ff40\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2fe476d47fc1e5f078d95e5ad6a0ff40\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\9adb7b10c38fdfe01dac667880f156cc\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\9adb7b10c38fdfe01dac667880f156cc\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\fae7b7f6cf99ab711b4a56118c153a03\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\fae7b7f6cf99ab711b4a56118c153a03\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\0b38a1d06b173e5ae50fdf3defbe3607\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\0b38a1d06b173e5ae50fdf3defbe3607\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\eec865448f75104b89ced96716548931\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\eec865448f75104b89ced96716548931\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\639ffff061e466faceff99a68711b784\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\639ffff061e466faceff99a68711b784\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhoom\.gradle\caches\transforms-3\70377e976c1b1b2396871a0c3f42dbe1\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\bhoom\.gradle\caches\transforms-3\70377e976c1b1b2396871a0c3f42dbe1\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffc78544a889815865f9e5357259d9c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffc78544a889815865f9e5357259d9c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7ef74bed882d684da4b7238e5777970a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7ef74bed882d684da4b7238e5777970a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\72d9e66c9bd580f14958510d56eeb9e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\72d9e66c9bd580f14958510d56eeb9e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\8a43ce0df3bdae44e6b9bd8b51ecbb9d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\8a43ce0df3bdae44e6b9bd8b51ecbb9d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\dd525a39b55a28f63f55ca4c075ba329\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\dd525a39b55a28f63f55ca4c075ba329\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\5b212d94b1511f1948ceceadacf33626\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\5b212d94b1511f1948ceceadacf33626\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\969e4d3bfd5bb47ca1b43866a7228c4d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\969e4d3bfd5bb47ca1b43866a7228c4d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7f92343d48edfef6453cb4fe320393ae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\7f92343d48edfef6453cb4fe320393ae\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\49cf70573a3dec4ef568db769f46d11b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\49cf70573a3dec4ef568db769f46d11b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\b6baa1a4c18b81940b0b9191695cd51f\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\b6baa1a4c18b81940b0b9191695cd51f\transformed\annotation-experimental-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\bhoom\.gradle\caches\transforms-3\faaa14d7f0901af06e0f69e4d2b7e343\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\bhoom\.gradle\caches\transforms-3\faaa14d7f0901af06e0f69e4d2b7e343\transformed\tensorflow-lite-2.4.0\AndroidManifest.xml:7:5-8:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\bhoom\AndroidStudioProjects\CurrencyDetection with audio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.media3:media3-common:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\cd48bc188301722b7eb36270bcc0f209\transformed\media3-common-1.3.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [androidx.media3:media3-common:1.3.1] C:\Users\bhoom\.gradle\caches\transforms-3\cd48bc188301722b7eb36270bcc0f209\transformed\media3-common-1.3.1\AndroidManifest.xml:22:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\bhoom\.gradle\caches\transforms-3\1f2c08a7ebb049c513d49f2ef7cce66d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\bhoom\.gradle\caches\transforms-3\195d016d840edee8b409571d26b0808a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\bhoom\.gradle\caches\transforms-3\2052a151f7c540d12a124335bbe4f3f9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\bhoom\.gradle\caches\transforms-3\ced7100dc31462b801c903f7e4f6cab0\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.currencydetection.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.currencydetection.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\bhoom\.gradle\caches\transforms-3\5cbc064e02475d96991ab9a1fe06ec35\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\bhoom\.gradle\caches\transforms-3\ffb3ba25ef3abc5f5e34cad4325470bc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
